@@ -1,39 +1,3 @@
-def using_push(array, movie)
- array.push(movie)
-end
-
-def using_unshift(array, home)
-   array.unshift(home)
-end
-
-def using_pop(array)
-  array.pop
-end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # def using_push(array, string)
 #   array.push(string)
 # end
